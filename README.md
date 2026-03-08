@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+# FinCare – Mobile Banking Accessible to All
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Project Overview
+FinCare is a solution developed during the **ASTRAVA Hackathon organized by Dr. AIT College** under the **Open Innovation** domain.  
+Our goal is to make **mobile banking accessible for everyone**, especially for users who face difficulties due to language barriers or complex form-filling processes.
 
-## Available Scripts
+The project provides:
+- A **multilingual chatbot** that answers banking-related queries in the user's **native language**
+- An **automatic form-filling system** where users can upload documents and the form gets filled automatically
 
-In the project directory, you can run:
+This solution aims to simplify banking services and improve accessibility for all users.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🎯 Problem Statement
+Many users struggle with mobile banking due to:
+- Language barriers
+- Complex form-filling processes
+- Lack of technical knowledge
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Our solution helps users interact with banking systems in their **own language** and simplifies form submission.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💡 Solution
+FinCare solves these problems by providing:
 
-### `npm run build`
+### 1️⃣ Multilingual Chatbot
+- Answers banking queries in **native languages**
+- Provides guidance for banking services
+- Voice/text interaction support
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2️⃣ Automatic Form Filling
+- Users upload documents
+- System extracts relevant information
+- Forms are automatically filled
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Technologies Used
+- **React.js** – Frontend interface
+- **Node.js / Backend APIs**
+- **Speech-to-Text APIs** – Voice input
+- **Text-to-Speech APIs** – Voice responses
+- **OCR / Document Parsing** – Extract information from uploaded files
+- **Translation APIs** – Support for multiple languages
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 👥 Team
+Team **FinCare**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Ramyashree**
+- **Ranjita**
+- **Vikas**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🏆 Hackathon Details
+- **Event:** ASTRAVA Hackathon
+- **Organizer:** Dr. AIT College
+- **Domain:** Open Innovation
+- **Duration:** 24 Hours
 
-## Learn More
+Out of **1200+ registrations and 800+ idea submissions**, our project was selected for the **next stage**.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📌 Key Features
+- Multilingual banking assistant
+- Voice-based interaction
+- Automatic form filling from documents
+- User-friendly interface
+- Accessible banking support
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📈 Future Improvements
+- Integration with real banking APIs
+- More regional language support
+- Secure authentication
+- AI-powered financial assistance
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🙏 Acknowledgements
+Special thanks to the **ASTRAVA Hackathon team**, mentors, and judges from **Dr. AIT College** for providing this amazing opportunity.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📬 Contact
+For queries or collaboration feel free to connect.
